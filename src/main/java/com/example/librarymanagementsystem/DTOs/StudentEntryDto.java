@@ -1,6 +1,6 @@
 package com.example.librarymanagementsystem.DTOs;
 
-import jakarta.persistence.Column;
+import javax.persistence.Column;
 import lombok.Data;
 
 @Data

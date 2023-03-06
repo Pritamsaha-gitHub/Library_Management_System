@@ -1,9 +1,9 @@
 package com.example.librarymanagementsystem.ResponseDtos;
 
 import com.example.librarymanagementsystem.Enums.Cardstatus;
-import jakarta.persistence.Column;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
+import javax.persistence.Column;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
